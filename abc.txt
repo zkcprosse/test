@@ -1,2 +1,3 @@
-阿斯蒂芬
-newb
+<<<<<<< HEAD
+阿斯蒂芬 dfdsaf
+>>>>>>> newb2
